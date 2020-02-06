@@ -1,0 +1,8 @@
+C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\URLParser.deps.json
+C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\URLParser.runtimeconfig.json
+C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\URLParser.runtimeconfig.dev.json
+C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\URLParser.dll
+C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\URLParser.csprojAssemblyReference.cache
+C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\URLParser.csproj.CoreCompileInputs.cache
+C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\URLParser.AssemblyInfoInputs.cache
+C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\URLParser.AssemblyInfo.cs

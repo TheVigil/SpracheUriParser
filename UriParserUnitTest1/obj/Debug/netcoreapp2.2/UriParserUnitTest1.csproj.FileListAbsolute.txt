@@ -1,0 +1,17 @@
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\UriParserUnitTest1.deps.json
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\UriParserUnitTest1.runtimeconfig.json
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\UriParserUnitTest1.runtimeconfig.dev.json
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\UriParserUnitTest1.dll
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\UriParserUnitTest1.pdb
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\UriParser.dll
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\UriParser.pdb
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.csprojAssemblyReference.cache
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.AssemblyInfoInputs.cache
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.AssemblyInfo.cs
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.csproj.CopyComplete
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.dll
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.pdb
