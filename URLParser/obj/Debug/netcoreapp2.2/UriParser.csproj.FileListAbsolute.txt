@@ -8,3 +8,7 @@ C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\URI
 C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\URIParser.pdb
 C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\URIParser.dll
 C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\URIParser.pdb
+C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\UriParser.csprojAssemblyReference.cache
+C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\SpracheExtensionsLibrary.dll
+C:\Users\schindlerj\source\repos\URLParser\URLParser\bin\Debug\netcoreapp2.2\SpracheExtensionsLibrary.pdb
+C:\Users\schindlerj\source\repos\URLParser\URLParser\obj\Debug\netcoreapp2.2\UriParser.csproj.CopyComplete

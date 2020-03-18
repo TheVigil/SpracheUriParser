@@ -15,3 +15,5 @@ C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcorea
 C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.csproj.CopyComplete
 C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.dll
 C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\obj\Debug\netcoreapp2.2\UriParserUnitTest1.pdb
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\SpracheExtensionsLibrary.dll
+C:\Users\schindlerj\source\repos\URLParser\UriParserUnitTest1\bin\Debug\netcoreapp2.2\SpracheExtensionsLibrary.pdb
