@@ -1,0 +1,9 @@
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\bin\Debug\netcoreapp2.2\SpracheExtensionsLibrary.deps.json
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\bin\Debug\netcoreapp2.2\SpracheExtensionsLibrary.dll
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\obj\Debug\netcoreapp2.2\SpracheExtensionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\obj\Debug\netcoreapp2.2\SpracheExtensionsLibrary.AssemblyInfoInputs.cache
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\obj\Debug\netcoreapp2.2\SpracheExtensionsLibrary.AssemblyInfo.cs
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\bin\Debug\netcoreapp2.2\SpracheExtensionsLibrary.pdb
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\obj\Debug\netcoreapp2.2\SpracheExtensionsLibrary.dll
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\obj\Debug\netcoreapp2.2\SpracheExtensionsLibrary.pdb
+C:\Users\schindlerj\source\repos\URLParser\SpracheExtensionsLibrary\obj\Debug\netcoreapp2.2\SpracheExtensionsLibrary.csprojAssemblyReference.cache

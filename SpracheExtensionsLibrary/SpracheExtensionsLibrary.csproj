@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LanguageExt.Core" Version="3.4.12" />
+    <PackageReference Include="LanguageExt.Parsec" Version="3.4.12" />
+    <PackageReference Include="Sprache" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
