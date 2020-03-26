@@ -6287,6 +6287,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://mvnrepository.grp.haufemg.com/api/nuget/hmg-topas-nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,21 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
-using System.Net;
-using System.Net.Security;
-using System.Net.Sockets;
-using System.Reflection;
-using System.Runtime.CompilerServices;
-using System.Runtime.ExceptionServices;
-using System.Security.Cryptography.X509Certificates;
-using System.Text.RegularExpressions;
+﻿using System.Linq;
 using LanguageExt;
-using LanguageExt.SomeHelp;
-using LanguageExt.Parsec;
 using Sprache;
 using SpracheExtensionsLibrary;
-using Char = System.Char;
+
 
 namespace UriParser
 {
